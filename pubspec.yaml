@@ -1,5 +1,5 @@
 name: timer_app
-description: "A new Flutter project."
+description: "A minimal timer app built as a side project, focused purely on experimenting with UI theme changes. It lets you switch between light, dark, and custom themes while running a simple timer. The goal isn’t functionality, but exploring design aesthetics and smooth theme transitions."
 publish_to: 'none'
 
 version: 1.0.0+1
